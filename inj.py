@@ -62,6 +62,6 @@ async def on_message(message):
             await message.channel.send(embed=tlfvoEmbed)
             print(f'{message.author} 님이 잘못된 숫자로 인해 인증을 실패함.')
 
-client.run('NzQ3MDY2Njc2NDYxMTc0ODA1.X0JeDw.keQ9AlRMvK0iJpZCNdpvrYGjRdA')
+client.run('')
 
 
